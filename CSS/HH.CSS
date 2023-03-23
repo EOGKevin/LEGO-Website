@@ -1,0 +1,130 @@
+body {
+    margin: 0;
+}
+
+nav {
+    background-color: #FCCC04;
+}
+
+.logo-2 {
+    margin-left: 1580px;
+}
+
+.asp {
+    background-color: #1c4444;
+    size: 1000px;
+}
+
+.lelola > .nav1 {
+    background-color: #009d2e;
+    text-align: center;
+    color: white;
+    border: 30px #046CB4;
+    margin: 25px;
+    font-size: 24px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.nav1 {
+    background-color: #046CB4;
+    text-align: center;
+    color: white;
+    border: 30px #046CB4;
+    margin: 25px;
+    font-size: 24px;
+    font-family: 'Oswald', sans-serif;
+}
+
+ul{
+    margin: 0;
+}
+
+.Byg {
+    size: 1000px;
+}
+
+.produkter {
+    text-decoration: none;
+}
+
+.Legoland {
+    text-decoration: none;
+
+}
+
+.overtekst {
+    text-decoration: none;
+    width: 1840px;
+    font-size: 22px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.liltekst {
+    text-decoration: none;
+    width: 1800px;
+    font-size: 14px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.Tekst {
+    text-decoration: none;
+    width: 1820px;
+    font-size: 17px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.Hello {
+    color: black;
+    text-decoration: none;
+    font-size: 28px;
+    font-family: 'Oswald', sans-serif;
+    margin: 15px;
+    margin-left: 25px;
+    position: fixed;
+}
+
+.Hello2 {
+    margin-left: 160px;
+}
+
+.Hello3 {
+    margin-left: 285px;
+}
+
+.Hello4 {
+    margin-left: 410px;
+}
+
+.side {
+    color: white;
+    text-decoration: none;
+    font-size: 28px;
+    font-family: 'Oswald', sans-serif;
+    margin: 15px;
+    margin-left: 25px;
+    position: fixed;
+}
+
+.merlinlego{
+    background-color: #009d2f8d;
+    color: white;
+    text-decoration: none;
+}
+
+.sidefod {
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: 100% bottom;
+    order: 6;
+}
+
+.nedside img {
+    bottom: 0;
+    margin-top: -21px;
+    margin-left: 670px;    
+}
+
+.nedside {
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
