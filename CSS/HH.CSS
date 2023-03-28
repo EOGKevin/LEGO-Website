@@ -44,10 +44,8 @@ ul {
   size: 1000px;
 }
 
-.logo {
-  width: 55px;
-  height: 55px;
-  display: flex;
+.logo > img {
+  margin: 10px;
 }
 
 .produkter {
