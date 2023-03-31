@@ -2,7 +2,7 @@ body {
   margin: 0;
 }
 
-nav {
+.topnav {
   background-color: #fccc04;
   height: 4.6875rem;
 }
