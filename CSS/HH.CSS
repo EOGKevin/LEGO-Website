@@ -2,13 +2,13 @@ body {
   margin: 0;
 }
 
-nav {
+.topnav {
   background-color: #fccc04;
   height: 4.6875rem;
 }
 
 .logo-2 {
-  margin-left: 1580px;
+  margin-left: 1824px;
 }
 
 .asp {
@@ -45,6 +45,10 @@ ul {
 }
 
 .logo > img {
+  margin: 10px;
+}
+
+.logo-2 > img {
   margin: 10px;
 }
 
